@@ -19,3 +19,22 @@ console.log(scoreOfParentheses("()"));      // 1
 console.log(scoreOfParentheses("(())"));    // 2
 console.log(scoreOfParentheses("()()"));    // 2
 console.log(scoreOfParentheses("(()(()))")) // 6
+
+// pattern name  = "Score of Parentheses";
+// pattern description = "Given a string S representing a valid parentheses sequence, return the score of the parentheses.";
+// pattern difficulty = "Medium";
+// pattern tags = ["Stack", "String"];
+// pattern code = "javascript";
+// pattern codeSnippet = scoreOfParentheses.toString();
+// pattern example = {
+//     input: "S = \"()\"",
+//     output: "1"
+// };
+// pattern example2 = {
+//     input: "S = \"(())\"",
+//     output: "2"
+// };
+// pattern example3 = {
+//     input: "S = \"()()\"",
+//     output: "2"
+// };
